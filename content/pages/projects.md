@@ -15,12 +15,80 @@ Each problem set of the term project is a 1-2 page of design summary of your imp
 
 These are loose requirements meant to provide guidance. We may be flexible with them if you can justify…
 
-| CRITERIA | REQUIREMENTS | REMARKS |
-| --- | --- | --- |
-| Resolution | 0.3 nm or better  {{< br >}}  {{< br >}}5 nm or better  {{< br >}}We would be very pleased if you could design for resolution required to scan the atomic lattice of the graphite sample | 0.3 nm or better: Z direction  {{< br >}}  {{< br >}}5 nm or better: X and Y direction |
-| Working Range | 500 × 500 × 500 nm3 | Minimum range |
-| Total Size | 220 × 150 × 120 (height) mm3  {{< br >}}But should be as small as possible to increase resonance frequency | Fit in the insulating enclosure |
-| Performance | Scan the micro structures on the sample | We are not ultra-concerned with the rapidity with which you can drive your machine  {{< br >}}  {{< br >}}Your speed depends on your design. Determine what it needs to be to give you a reasonable level of accuracy. You'll have to justify your speed. Pay attention to thermal errors here… 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CRITERIA
+{{< thclose >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+REMARKS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Resolution
+{{< tdclose >}}
+{{< tdopen >}}
+0.3 nm or better  
+  
+5 nm or better  
+We would be very pleased if you could design for resolution required to scan the atomic lattice of the graphite sample
+{{< tdclose >}}
+{{< tdopen >}}
+0.3 nm or better: Z direction  
+  
+5 nm or better: X and Y direction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Working Range
+{{< tdclose >}}
+{{< tdopen >}}
+500 × 500 × 500 nm3
+{{< tdclose >}}
+{{< tdopen >}}
+Minimum range
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total Size
+{{< tdclose >}}
+{{< tdopen >}}
+220 × 150 × 120 (height) mm3  
+But should be as small as possible to increase resonance frequency
+{{< tdclose >}}
+{{< tdopen >}}
+Fit in the insulating enclosure
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Performance
+{{< tdclose >}}
+{{< tdopen >}}
+Scan the micro structures on the sample
+{{< tdclose >}}
+{{< tdopen >}}
+We are not ultra-concerned with the rapidity with which you can drive your machine  
+  
+Your speed depends on your design. Determine what it needs to be to give you a reasonable level of accuracy. You'll have to justify your speed. Pay attention to thermal errors here…
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Budget
 

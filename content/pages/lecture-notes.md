@@ -6,23 +6,455 @@ uid: dba74ca1-bd7c-18fb-5dd6-f634aaa79cb7
 
 Class sessions 1 through 18 are lectures. Notes for most of these sessions are provided in the following table.
 
-| SES # | TOPICS | SESSION CATEGORIES | INSTRUCTORS | LECTURE NOTES |
-| --- | --- | --- | --- | --- |
-| 1 | _Introduction to MuSS and SPM Case Study_  {{< br >}}  {{< br >}}Course Goals, Logistics and Expectations  {{< br >}}  {{< br >}}Comparison of MuSS and MoSS Fundamentals  {{< br >}}  {{< br >}}MuSS Example: Overview of SPM Technology | Fundamental Principles | Prof. Martin L. Culpepper | ([PDF]({{< baseurl >}}/resources/lecture_1)) |
-| 2 | _MuSS Design Fundamentals and Methods_  {{< br >}}  {{< br >}}MuSS Design Fundamentals and Methods  {{< br >}}  {{< br >}}Design Principles and Systems Design  {{< br >}}  {{< br >}}MuSS Manufacturing Issues | Fundamental Principles | Prof. Sang-Gook Kim | ([PDF - 1.5 MB]({{< baseurl >}}/resources/lecture_2)) |
-| 3 | _Macro/Meso-scales Components and Characteristics_  {{< br >}}  {{< br >}}Principles, Metrics and Types of Cross-scale Incompatibilities  {{< br >}}  {{< br >}}Incompatibilities of Macro/Meso Parts with Micro/Nano Parts  {{< br >}}  {{< br >}}Integrating Constraints on Macro/Meso-scale Parts | Fundamental Principles | Prof. Martin L. Culpepper | ([PDF - 2.6 MB]({{< baseurl >}}/resources/lecture_3)) |
-| 4 | _Micro-scale Components and Characteristics_  {{< br >}}  {{< br >}}Principles of Macro/Meso-scale and Micro-scale Part Integration  {{< br >}}  {{< br >}}Incompatibilities of Micro Parts with Nano Parts  {{< br >}}  {{< br >}}Micro-scale Part Errors and Implications for Integration | Fundamental Principles | Prof. Martin L. Culpepper | ([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture_4)) |
-| 5 | _Nano-scale Components and Characteristics_  {{< br >}}  {{< br >}}Principles of nm-scale Physics which Govern Integration Incompatibility  {{< br >}}  {{< br >}}Nano-scale Actuators, Structures and Sensors  {{< br >}}  {{< br >}}Trasmissability of Nano-scale Errors to other Scales | Fundamental Principles | Prof. Martin L. Culpepper | ([PDF - 1.7 MB]({{< baseurl >}}/resources/lecture_5)) |
-| 6 | _Scanning Probe Microscopy Project Introduction_  {{< br >}}  {{< br >}}Project Goals and Expectations  {{< br >}}  {{< br >}}Demonstration of 2.76 SPM  {{< br >}}  {{< br >}}Questions, Team Selection and Planning | Case Study/Application | Soohyung Kim, Course TA | ([PDF]({{< baseurl >}}/resources/lecture_6)) |
-| 7 | _Piezo MEMS: Materials_  {{< br >}}  {{< br >}}Piezoelectricity  {{< br >}}  {{< br >}}Materials  {{< br >}}  {{< br >}}Processing | Fundamental Principles | Prof. Sang-Gook Kim | ([PDF 1 of 2 - 3.0 MB]({{< baseurl >}}/resources/lecture_7prt1))  {{< br >}}  {{< br >}}([PDF 2 of 2 - 2.4 MB]({{< baseurl >}}/resources/lecture_7prt2)) |
-| 8 | _Piezoelectric MEMS: Applications_  {{< br >}}  {{< br >}}Piezoelectric Transducers  {{< br >}}  {{< br >}}Micro-actuators  {{< br >}}  {{< br >}}Sensors and Generators | Case Study/Application | Prof. Sang-Gook Kim | ([PDF - 1.7 MB]({{< baseurl >}}/resources/lecture_8)) |
-| 9 | _Optical MEMS_  {{< br >}}  {{< br >}}Functionality  {{< br >}}  {{< br >}}Devices  {{< br >}}  {{< br >}}Materials | Fundamental Principles | Prof. Sang-Gook Kim | ([PDF]({{< baseurl >}}/resources/lecture_9)) |
-| 10 | _Nominal and Statistical Error Budgets_  {{< br >}}  {{< br >}}Principles of Determinism, Accuracy, Repeatability  {{< br >}}  {{< br >}}Kinematic Error Modeling of Rigid-flexible Systems  {{< br >}}  {{< br >}}Nominal and Probabilitic System Error Modeling | Design and Manufacturing | Prof. Martin L. Culpepper | ([PDF]({{< baseurl >}}/resources/lecture_10)) |
-| 11 | Presentations on Paper Critiques | &nbsp; | Students | &nbsp; |
-| 12 | _Mechanical Interfaces for Cross-scale Alignment_  {{< br >}}  {{< br >}}Principles of Mechanical Constraint  {{< br >}}  {{< br >}}Design of Rigid, Flexible and Rigid-flexible Constraint  {{< br >}}  {{< br >}}Manufacturing and Assembly of Cross-scale Interfaces | Design and Manufacturing | Prof. Martin L. Culpepper | ([PDF - 2.5 MB]({{< baseurl >}}/resources/lecture_12)) |
-| 13 | _Mechanisms for Inter-scale Motion_  {{< br >}}  {{< br >}}Principles of Mass, Momentum and Energy Incompatibility  {{< br >}}  {{< br >}}Momentum Incompatibilities  {{< br >}}  {{< br >}}Energy Incompatibilities | Design and Manufacturing | Prof. Martin L. Culpepper | ([PDF]({{< baseurl >}}/resources/lecture_13)) |
-| 14 | _Carbon Nanotubes_  {{< br >}}  {{< br >}}Synthesis  {{< br >}}  {{< br >}}Properties and Applications  {{< br >}}  {{< br >}}Issues of Manufacturing | Design and Manufacturing | Prof. Sang-Gook Kim | ([PDF - 2.9 MB]({{< baseurl >}}/resources/lecture_14)) |
-| 15 | _Complexity of MuSS_  {{< br >}}  {{< br >}}Uncertainty and Difficulty  {{< br >}}  {{< br >}}Complexity  {{< br >}}  {{< br >}}Functional Periodicity | Design and Manufacturing | Prof. Sang-Gook Kim | ([PDF - 1.1 MB]({{< baseurl >}}/resources/lecture_15)) |
-| 16 | _Metrology_  {{< br >}}  {{< br >}}System Requirements  {{< br >}}  {{< br >}}Components and Selection Process  {{< br >}}  {{< br >}}Metrology-Machine Integration | Design and Manufacturing | Guest Lecturer | &nbsp; |
-| 17 | _Telescopes and the Oil Industry_  {{< br >}}  {{< br >}}X-Ray Telescopes  {{< br >}}  {{< br >}}Oil-well MEMS Sensors  {{< br >}}  {{< br >}}Questions and Discussion | Case Study/Application | Guest Lecturer | &nbsp; |
-| 18 | _Data Acquisition, Sensors and Control_  {{< br >}}  {{< br >}}Programming in Simulink®  {{< br >}}  {{< br >}}Introduction to dSPACE Control System  {{< br >}}  {{< br >}}Demonstration of Acquisition and Control System | Design and Manufacturing | Guest Lecturer |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SESSION CATEGORIES
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+_Introduction to MuSS and SPM Case Study_  
+  
+Course Goals, Logistics and Expectations  
+  
+Comparison of MuSS and MoSS Fundamentals  
+  
+MuSS Example: Overview of SPM Technology
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental Principles
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Martin L. Culpepper
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_MuSS Design Fundamentals and Methods_  
+  
+MuSS Design Fundamentals and Methods  
+  
+Design Principles and Systems Design  
+  
+MuSS Manufacturing Issues
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental Principles
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sang-Gook Kim
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.5 MB]({{< baseurl >}}/resources/lecture_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Macro/Meso-scales Components and Characteristics_  
+  
+Principles, Metrics and Types of Cross-scale Incompatibilities  
+  
+Incompatibilities of Macro/Meso Parts with Micro/Nano Parts  
+  
+Integrating Constraints on Macro/Meso-scale Parts
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental Principles
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Martin L. Culpepper
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.6 MB]({{< baseurl >}}/resources/lecture_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Micro-scale Components and Characteristics_  
+  
+Principles of Macro/Meso-scale and Micro-scale Part Integration  
+  
+Incompatibilities of Micro Parts with Nano Parts  
+  
+Micro-scale Part Errors and Implications for Integration
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental Principles
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Martin L. Culpepper
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Nano-scale Components and Characteristics_  
+  
+Principles of nm-scale Physics which Govern Integration Incompatibility  
+  
+Nano-scale Actuators, Structures and Sensors  
+  
+Trasmissability of Nano-scale Errors to other Scales
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental Principles
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Martin L. Culpepper
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.7 MB]({{< baseurl >}}/resources/lecture_5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Scanning Probe Microscopy Project Introduction_  
+  
+Project Goals and Expectations  
+  
+Demonstration of 2.76 SPM  
+  
+Questions, Team Selection and Planning
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study/Application
+{{< tdclose >}}
+{{< tdopen >}}
+Soohyung Kim, Course TA
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Piezo MEMS: Materials_  
+  
+Piezoelectricity  
+  
+Materials  
+  
+Processing
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental Principles
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sang-Gook Kim
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF 1 of 2 - 3.0 MB]({{< baseurl >}}/resources/lecture_7prt1))  
+  
+([PDF 2 of 2 - 2.4 MB]({{< baseurl >}}/resources/lecture_7prt2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Piezoelectric MEMS: Applications_  
+  
+Piezoelectric Transducers  
+  
+Micro-actuators  
+  
+Sensors and Generators
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study/Application
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sang-Gook Kim
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.7 MB]({{< baseurl >}}/resources/lecture_8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Optical MEMS_  
+  
+Functionality  
+  
+Devices  
+  
+Materials
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental Principles
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sang-Gook Kim
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Nominal and Statistical Error Budgets_  
+  
+Principles of Determinism, Accuracy, Repeatability  
+  
+Kinematic Error Modeling of Rigid-flexible Systems  
+  
+Nominal and Probabilitic System Error Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+Design and Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Martin L. Culpepper
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations on Paper Critiques
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Mechanical Interfaces for Cross-scale Alignment_  
+  
+Principles of Mechanical Constraint  
+  
+Design of Rigid, Flexible and Rigid-flexible Constraint  
+  
+Manufacturing and Assembly of Cross-scale Interfaces
+{{< tdclose >}}
+{{< tdopen >}}
+Design and Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Martin L. Culpepper
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.5 MB]({{< baseurl >}}/resources/lecture_12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Mechanisms for Inter-scale Motion_  
+  
+Principles of Mass, Momentum and Energy Incompatibility  
+  
+Momentum Incompatibilities  
+  
+Energy Incompatibilities
+{{< tdclose >}}
+{{< tdopen >}}
+Design and Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Martin L. Culpepper
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lecture_13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Carbon Nanotubes_  
+  
+Synthesis  
+  
+Properties and Applications  
+  
+Issues of Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Design and Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sang-Gook Kim
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.9 MB]({{< baseurl >}}/resources/lecture_14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Complexity of MuSS_  
+  
+Uncertainty and Difficulty  
+  
+Complexity  
+  
+Functional Periodicity
+{{< tdclose >}}
+{{< tdopen >}}
+Design and Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sang-Gook Kim
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.1 MB]({{< baseurl >}}/resources/lecture_15))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Metrology_  
+  
+System Requirements  
+  
+Components and Selection Process  
+  
+Metrology-Machine Integration
+{{< tdclose >}}
+{{< tdopen >}}
+Design and Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Telescopes and the Oil Industry_  
+  
+X-Ray Telescopes  
+  
+Oil-well MEMS Sensors  
+  
+Questions and Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Case Study/Application
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Data Acquisition, Sensors and Control_  
+  
+Programming in Simulink®  
+  
+Introduction to dSPACE Control System  
+  
+Demonstration of Acquisition and Control System
+{{< tdclose >}}
+{{< tdopen >}}
+Design and Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
