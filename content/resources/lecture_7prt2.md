@@ -4,6 +4,7 @@ description: 'Slides from lecture presentation covering the following topics: Pi
   Materials, and Processing.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-76-multi-scale-system-design-fall-2004/ecd2810729436f945d2879a2c8c5ee95_lecture_7prt2.pdf
 file_type: application/pdf
+parent_uid: dba74ca1-bd7c-18fb-5dd6-f634aaa79cb7
 resourcetype: Document
 title: lecture_7prt2.pdf
 uid: ecd28107-2943-6f94-5d28-79a2c8c5ee95

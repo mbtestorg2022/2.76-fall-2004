@@ -8,6 +8,7 @@ description: Problem set 6 of the term project. Each problem set of the term pro
   important as well.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-76-multi-scale-system-design-fall-2004/d738da1cda15e22f18aac482c6024aad_assignment6.pdf
 file_type: application/pdf
+parent_uid: 379ecd44-c774-5b55-e8fd-bc14f51f5e96
 resourcetype: Document
 title: assignment6.pdf
 uid: d738da1c-da15-e22f-18aa-c482c6024aad
